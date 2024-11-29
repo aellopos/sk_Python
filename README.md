@@ -1,1 +1,3 @@
-# sk_Python
+# PCstorm-skoleni-Python
+
+[priklady](./cviceni.md)
